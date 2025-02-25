@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "01_ESP32C3_OLED_blink"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "13_web_button_led_on_off",
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
