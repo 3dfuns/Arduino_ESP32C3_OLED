@@ -1,11 +1,12 @@
 {
 	"folders": [
 		{
+			"name": "01_ESP32C3_OLED_blink",
 			"path": "01_ESP32C3_OLED_blink"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "13_web_button_led_on_off",
+		"liveServer.settings.multiRootWorkspaceName": "01_ESP32C3_OLED_blink",
 		"files.associations": {
 			"array": "cpp",
 			"deque": "cpp",
